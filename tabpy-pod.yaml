@@ -23,5 +23,5 @@ spec:
           runAsUser: 1000
           allowPrivilegeEscalation: false
           privileged: false
-          hostNetwork: false
+          #hostNetwork: false
 
